@@ -39,25 +39,7 @@ I'm curious about the patterns behind everyday decisions. I use data to explore 
 
 ---
 
-## 💡 My projects
-
-- 📦 **[Olist Late Delivery Analysis](https://github.com/sandunlakshanranathunga/olist-late-delivery-analysis)**
-  Operations + marketing project. Late orders were about 6 times more likely to get a bad review. I tested a voucher plan to win customers back.
-
-- 💹 **[Sales Performance Dashboard (Power BI)](https://github.com/sandunlakshanranathunga/sales-dashboard-powerbi)**
-  FreshMart sales, profit and cost analysis, also rebuilt as a web dashboard.
-
-- 📊 **[Retail Outlet Performance Analysis](https://github.com/sandunlakshanranathunga/retail-outlet-performance-analysis)**
-  Python and R project. Marketing spend was the strongest driver of monthly revenue.
-
-- 🛫 **Airline Operational Performance & Passenger Satisfaction**
-  Tableau group project on delays, cancellations and passenger ratings.
-
-- 🍥 **What Makes an Anime Highly Rated?** *(in progress)*
-  Python + Power BI project on anime ratings.
-
----
-
 ## 🔗 Let's connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](ht
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://sandunlakshanranathunga.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandun-lakshan-3b70ba339/)
