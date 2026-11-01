@@ -1,4 +1,4 @@
-# Hi, I'm Sandun
+# Hi, I'm Sandun 👋🏻
 
 ### Business Analytics undergraduate | Turning data into business decisions
 
