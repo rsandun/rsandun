@@ -1,11 +1,13 @@
-# Hi, I'm Sandun 👋🏻
+# Hi, I'm Sandun
 
 ### Business Analytics undergraduate | Turning data into business decisions
 
 I'm curious about the patterns behind everyday decisions. I use data to explore questions and notice what often goes unnoticed.
+
 - Studying BM (Honours) in Business Analytics at NSBM Green University
 - Looking for marketing analytics and operations analytics internships
 - Based in Sri Lanka
+
 ---
 
 ## Tools I use
