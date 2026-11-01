@@ -41,5 +41,5 @@ I'm curious about the patterns behind everyday decisions. I use data to explore 
 
 ## 🔗 Let's connect
 
-[![Portfolio](https://rsandun.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-E63946?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rsandun.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandun-lakshan-3b70ba339/)
