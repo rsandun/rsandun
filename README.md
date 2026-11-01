@@ -1,18 +1,16 @@
-# Hi, I'm Sandun 🚀
+# Hi, I'm Sandun
 
 ### Business Analytics undergraduate | Turning data into business decisions
 
 I'm curious about the patterns behind everyday decisions. I use data to explore questions and notice what often goes unnoticed.
 
-🧠 Studying BM (Honours) in Business Analytics at NSBM Green University
-
-📈 Looking for marketing analytics and operations analytics internships
-
-🌏 Sri Lanka
+- 🎓 Studying BM (Honours) in Business Analytics at NSBM Green University
+- 📊 Looking for marketing analytics and operations analytics internships
+- 📍 Based in Sri Lanka
 
 ---
 
-## ⚙️ Tools I use
+## 🛠️ Tools I use
 
 **Data analysis**
 
@@ -45,3 +43,11 @@ I'm curious about the patterns behind everyday decisions. I use data to explore 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1F2937?style=flat-square&logo=googlechrome&logoColor=white)](https://rsandun.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1F2937?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandun-lakshan-3b70ba339/)
+
+---
+
+## 📁 Reports
+
+- **[Retail Outlet Performance Analysis](https://github.com/rsandun/retail-outlet-performance-analysis)** | Python and R
+- **[Sales Performance Dashboard](https://github.com/rsandun/sales-dashboard-powerbi)** | Power BI
+- **[Airline Delay and Passenger Satisfaction Analysis](https://github.com/rsandun/airline-delay-satisfaction-analysis.twbx)** | Tableau
