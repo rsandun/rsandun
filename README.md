@@ -23,17 +23,13 @@ Based in Sri Lanka
 
 ![Power BI](https://img.shields.io/badge/Power_BI-1F2937?style=flat-square&logo=powerbi&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-1F2937?style=flat-square&logo=tableau&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-1F2937?style=flat-square&logo=chartdotjs&logoColor=white)
 
 **Web and other tools**
 
 ![HTML](https://img.shields.io/badge/HTML5-1F2937?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1F2937?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1F2937?style=flat-square&logo=javascript&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-1F2937?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-1F2937?style=flat-square&logo=github&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-1F2937?style=flat-square&logo=canva&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-1F2937?style=flat-square&logo=notion&logoColor=white)
 
 ---
 
